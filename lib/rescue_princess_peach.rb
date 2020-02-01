@@ -4,3 +4,7 @@ def rescue_princess_peach
 end
 
 ## Comment the below back in to see method scope in action!
+
+# this is a comment
+
+def rescue_princess_peach #this is the method
